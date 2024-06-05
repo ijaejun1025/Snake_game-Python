@@ -8,3 +8,4 @@ This is the snake game project using Python turtle graphics.
 
 ## Game play video
 
+![Game play video](https://github.com/ijaejun1025/Snake_game-Python/assets/154036705/53b012c7-b890-4fa4-afa4-2d187bae3aae)
